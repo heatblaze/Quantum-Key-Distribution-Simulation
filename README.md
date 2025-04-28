@@ -93,7 +93,7 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 ## Contact
 For any questions or suggestions, feel free to open an issue in the GitHub repository or contact the project maintainer:
-- **GitHub**: heatblaze
+- **GitHub**: [heatblaze](https://github.com/heatblaze)
 - **Email**: adityachitransh18@gmail.com
 
 ---
