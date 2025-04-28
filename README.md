@@ -68,4 +68,4 @@ The GUI is designed with a dark theme for an elegant look and feel. Key elements
 
 Example Screenshot
 
-![GUI](D:\daw n\QKD sim)
+![GUI](GUI.png)
