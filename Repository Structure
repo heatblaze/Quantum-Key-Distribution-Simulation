@@ -2,4 +2,6 @@ Quantum-Key-Distribution-Simulation/
 │
 ├── main.py            
 ├── README.md                    
-└── .gitignore          
+├── .gitignore     
+├── GUI.png
+└── pyvenv.cfg
